@@ -18,3 +18,5 @@ class MainActivity : ComponentActivity() {
         setContent { Portada(model) }
     }
 }
+
+

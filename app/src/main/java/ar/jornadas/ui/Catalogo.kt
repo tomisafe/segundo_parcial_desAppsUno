@@ -58,3 +58,6 @@ fun Grilla(fichas: List<Charla>, abrir: (String) -> Unit) {
         }
     }
 }
+
+
+

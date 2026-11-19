@@ -50,3 +50,5 @@ class ProgramaModel(app: Application, private val guardado: SavedStateHandle) : 
         var cargaHechaEnElProceso = false
     }
 }
+
+
